@@ -11,10 +11,14 @@ I am a computer science major currently attending Virginia Tech
 * 🧠  I'm learning full-stack web developement using MERN stack
 * 🤝  I'm open to collaborating on interesting web development projects
 
-<a href="https://www.twitter.com/sube777" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sube777?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/subeom7" target="_blank" rel="noreferrer"><img
+<a href="https://stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+/></a>
+<a href="https://www.linkedin.com/in/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/subeom7/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://www.github.com/subeom7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
