@@ -7,7 +7,7 @@ I am a computer science major currently attending Virginia Tech
 * 🌍  I'm based in Blacksburg, Virginia, United States
 * 🖥️  See my portfolio at this [website](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
-* 🚀  I'm currently working on [IOS Educational Geography App](http://https://github.com/thinh01/geography)
+* 🚀  I'm currently working on [Interactive Text Classification & Evaluation Web App](http://https://github.com/thinh01/geography)
 * 🧠  I'm learning full-stack web developement using MERN stack
 * 🤝  I'm open to collaborating on interesting web development projects
 
