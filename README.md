@@ -1,4 +1,4 @@
-Hi [👋](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) My name is Subeom Kwon
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> My name is Subeom Kwon
 ============================
 
 I am a computer science major currently attending Virginia Tech
