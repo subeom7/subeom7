@@ -11,7 +11,7 @@ I am a computer science major currently attending Virginia Tech
 * 🧠  I'm learning full-stack web developement using MERN stack
 * 🤝  I'm open to collaborating on interesting web development projects
  
-<!--  <a href="https://stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
 /></a>
 <a href="https://www.linkedin.com/in/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
