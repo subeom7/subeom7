@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 <a href="https://www.linkedin.com/in/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/subeom7/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://www.github.com/subeom7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
+src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  -->
 
 
 ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="20"> <p align="left"> 
