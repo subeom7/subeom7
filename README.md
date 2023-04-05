@@ -2,7 +2,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7">
 ============================
 
-I am a computer science major currently attending Virginia Tec
+I am a computer science major currently attending Virginia Tech
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Blacksburg, Virginia, United States
