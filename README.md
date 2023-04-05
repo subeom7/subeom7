@@ -1,4 +1,4 @@
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> My name is Subeom Kwon
+Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40"> My name is Subeom Kwon
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7">
 ============================
 
@@ -38,12 +38,12 @@ src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-b
 </p>
 
 
-### Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width = 45px height="25"> <p align="left"> 
+### Socials <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width = 35px height="35"> <p align="left"> 
 
 <p align="left"> <a href="https://discord.com/users/Subeom (subeom7)#1344" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/subeom-kwon-7b58031a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sube777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-### My GitHub Stats
+### My GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' width = 35px height="35"> <p align="left"> 
 
 <a href="http://www.github.com/subeom7"><img src="https://github-readme-stats.vercel.app/api?username=subeom7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="subeom7's GitHub stats" /></a>
 
