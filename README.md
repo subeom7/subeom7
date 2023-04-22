@@ -1,4 +1,4 @@
-Hello, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40"> My name is Subeom Kwon
+Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40"> My name is Subeom Kwon
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7">
 ============================
 
