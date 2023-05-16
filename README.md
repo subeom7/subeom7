@@ -6,7 +6,7 @@ I'm a computer science graduate @ Virginia Tech
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Blacksburg, Virginia, United States
-* 🖥️  See my portfolio at this [website](https://golden-tiramisu-0f3cab.netlify.app/)
+* 🖥️  See my portfolio [here](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [Interactive Text Classification & Evaluation Web App](https://github.com/subeom7/Text-Classification-and-Evaluation)
 * 🧠  I'm learning full-stack web developement using MERN stack
