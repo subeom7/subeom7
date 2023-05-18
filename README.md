@@ -9,7 +9,7 @@ I'm a computer science graduate @ Virginia Tech
 * 🖥️  See my portfolio [here](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [Interactive Text Classification & Evaluation Web App](https://github.com/subeom7/Text-Classification-and-Evaluation)
-* 🧠  I'm learning full-stack web developement using MERN stack
+* 🧠  I'm learning Full-Stack web developement using MERN stack
 * 🤝  I'm open to collaborating on interesting web development projects
  
 <!-- <a href="https://stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img
