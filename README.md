@@ -2,7 +2,7 @@ Hello, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7">
 ============================
 
-I'm computer science graduate @ Virginia Tech
+I'm a computer science graduate @ Virginia Tech
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Blacksburg, Virginia, United States
