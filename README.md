@@ -5,7 +5,7 @@ Hello, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 I'm a computer science grad @ [Virginia Tech](https://www.vt.edu)
 ---------------------------------------------------------------
 
-* 🌍  I'm based in Blacksburg, Virginia, United States
+* 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio [here](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [Interactive Text Classification & Evaluation Web App](https://github.com/subeom7/Text-Classification-and-Evaluation)
