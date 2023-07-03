@@ -48,7 +48,9 @@ src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-b
 
 <a href="http://www.github.com/subeom7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subeom7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/subeom7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subeom7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/subeom7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subeom7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+[![Subeom's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subeom7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph?username=subeom7&theme=react-dark"><img alt="subeom7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=subeom7&theme=react-dark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a> -->
  
