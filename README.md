@@ -54,4 +54,4 @@ src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-b
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph?username=subeom7&theme=react-dark"><img alt="subeom7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=subeom7&theme=react-dark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a> -->
  
- [![Subeom Kwon's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subeom7&theme=react-dark)](https://github.com/subeom7/github-readme-activity-graph)
+ [![Subeom's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subeom7&theme=react-dark)](https://github.com/subeom7/github-readme-activity-graph)
