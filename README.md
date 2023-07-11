@@ -2,7 +2,7 @@ Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7">
 ============================
 
-I'm a computer science grad @ [Virginia Tech](https://www.vt.edu)
+I'm a computer science graduate @ [Virginia Tech](https://www.vt.edu)
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Seoul, South Korea 🇰🇷 
