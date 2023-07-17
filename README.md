@@ -8,7 +8,7 @@ I'm a computer science graduate @ [Virginia Tech](https://www.vt.edu)
 * 🌍  I'm based in Seoul, South Korea 🇰🇷 
 * 🖥️  See my portfolio [here](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
-* 🚀  I'm currently working on [AI Interactive Text Classification & Evaluation Web App](https://github.com/subeom7/Text-Classification-and-Evaluation)
+* 🚀  I'm currently working on [Daily Summary](https://github.com/subeom7/daily-summary)
 * 🧠  I'm learning Full-Stack web development using MERN stack
 * 🤝  I'm open to collaborating on interesting web development projects
  
