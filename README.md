@@ -10,7 +10,7 @@ I'm a computer science graduate @ [Virginia Tech](https://www.vt.edu)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [Daily Summary](https://github.com/subeom7/daily-summary)
 * 🧠  I'm learning Full-Stack web development using MERN stack
-* 🤝  I'm open to collaborating on interesting web development projects
+* 🤝  I'm open to collaborating on interesting projects
  
 <!-- <a href="https://stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
