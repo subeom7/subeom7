@@ -9,7 +9,7 @@ I'm computer science alumni @ [Virginia Tech](https://www.vt.edu)
 * 🖥️  See my portfolio [here](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [daily summary](https://github.com/subeom7/daily-summary)
-* 🧠  I'm learning back-end development using Java-Spring
+* 🧠  I'm learning back-end development using Java-Spring framework
 * 🤝  I'm open to collaborating on interesting projects
  
 <!-- <a href="https://stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img
