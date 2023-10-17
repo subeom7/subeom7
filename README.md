@@ -1,5 +1,7 @@
-# Hello,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40"> I'm Subeom Kwon
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7">
+
+# Hello,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40"> I'm Subeom Kwon
+
 
 
 ## I'm computer science alumni @ [Virginia Tech](https://www.vt.edu)
