@@ -2,11 +2,8 @@
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subeom7"> -->
 
-## I'm computer science alumni @ [Virginia Tech](https://www.vt.edu)
-
 
 * 🌍  I'm based in Seoul, South Korea
-* 🖥️  See my portfolio [here](https://golden-tiramisu-0f3cab.netlify.app/)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [daily summary](https://github.com/subeom7/daily-summary)
 * 🧠  I'm learning back-end development using Java-Spring framework
@@ -39,7 +36,7 @@ src="https://img.shields.io/github/followers/subeom7?logo=github&style=for-the-b
 
 ### Socials <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width = 35px height="35"> 
 
-<p align="left"> <a href="https://discord.com/users/Subeom (subeom7)#1344" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/subeom-kwon-7b58031a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sube777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Subeom (subeom7)#1344" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/16650828/sk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sube777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 ### My GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' width = 35px height="35">
