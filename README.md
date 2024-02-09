@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
-* 🚀  I'm currently working on [daily summary](https://github.com/subeom7/daily-summary)
+* 🚀  I'm currently working on [dividend-project](https://github.com/subeom7/daily-summary)
 * 🧠  I'm learning back-end development using Java-Spring framework
 * 🤝  I'm open to collaborating on interesting projects
 
