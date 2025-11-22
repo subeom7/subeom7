@@ -3,7 +3,7 @@
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [dividend-project](https://github.com/subeom7/dividend-project)
-* 🌐  You can visit my website through [this link]()
+* 🌐  You can visit my website through [this link](https://golden-tiramisu-0f3cab.netlify.app/)
 * 🧠  I'm learning back-end development using Python 
 * 🤝  I'm open to collaborating on interesting projects
 
