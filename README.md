@@ -31,12 +31,23 @@
 </p>
 
 
-## My GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' width = 35px height="35">
+## My GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' width="35" height="35">
 
-[![Subeom's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=subeom7&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subeom7&theme=github_dark" />
+</p>
 
-<!-- <a href="http://www.github.com/subeom7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subeom7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subeom7&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subeom7&theme=github_dark&utcOffset=9" height="165" />
+</p>
 
-[![Subeom's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=subeom7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subeom7&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subeom7&theme=github_dark" height="165" />
+</p>
 
-[![Subeom's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subeom7&theme=react-dark&bg_color=1c1917&hide_border=true&color=0891b2&line=0891b2&point=ffffff)](https://github.com/subeom7/github-readme-activity-graph)
+
+
+
+
