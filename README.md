@@ -44,7 +44,9 @@
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subeom7&theme=github_dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subeom7&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subeom7&amp;theme=github_dark&amp;v=2" height="165" />
+
+
 </p>
 
 
