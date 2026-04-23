@@ -9,12 +9,12 @@
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width=35px height="35" />
 
-[![My Skills](https://skillicons.dev/icons?i=py,kubernetes,docker,redis,linux,git)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=py,kubernetes,docker,redis,linux,git" height="42" />
 
 ## Socials <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width = 35px height="35"> 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/subeomkwon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
 </p>
 
 
