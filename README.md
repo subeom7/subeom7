@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
-* 🚀  I'm currently working on [Medihub Stroke](https://jlkgroup.com/en/)
+* 🚀  I'm currently working on [Medihub Stroke](https://jlkgroup.com/en/medihub_stroke/)
 * 🌐  You can visit my website through [this link](https://subeomkwon.com)
 * 🧠  I'm learning Kubernetes & DevOps
 * 🤝  I'm open to collaborating on interesting projects
