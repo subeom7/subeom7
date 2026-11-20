@@ -3,7 +3,7 @@
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [mulmit.com](https://mulmit.com/)
-* 🌐  You can visit my website through [this link](https://subeomkwon.com)
+* 🌐  You can visit my website through [subeomkwon.com](https://subeomkwon.com)
 * 🧠  I'm learning Kubernetes & DevOps
 * 🤝  I'm open to collaborating on interesting projects
 
